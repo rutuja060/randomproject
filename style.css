@@ -1,0 +1,14 @@
+h2{
+    color:rgb(0, 0, 0);
+    text-align: center;
+}
+#quotes{
+   color: whitesmoke; 
+   text-align: center;
+}
+body{
+    background-color:rgb(161, 107, 247);
+}
+#give-cat{
+    border: yellow;
+}
